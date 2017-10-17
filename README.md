@@ -1,6 +1,6 @@
 # ユニティちゃん横移動ゲーム
 
-![ゲームシーン](https://github.com/caorol/GoForwardUnityChan/blob/master/gamescene.png)
+![ゲームシーン](https://raw.github.com/caorol/GoForwardUnityChan/master/gamescene.png)
 
 ## Monodevelop はイベントメソッドの入力補完がない
 「OnXxxxx() 系のメソッドが沢山あるはずだけど候補出ないからよくわかんないなぁ…」  
